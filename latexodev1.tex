@@ -1,0 +1,67 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[turkish]{babel}
+
+\title{BM325 Alıştırma-1 Çözümleri}
+\author{Tunahan Altun}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Giriş}
+Bu belge, 1. hafta kapsamında işlenen LaTeX belge anatomisi, derleme süreci ve BŞEÜ bitirme şablonu yönergesine dayanan alıştırmaların çözümlerini içermektedir.
+
+\section*{Alıştırma 2: Sözdizimi}
+\textbf{(a)} Zorunlu argümanlar \texttt{\{\}} (süslü parantez) içine yazılır ve komutun çalışması için mutlak gereklidir; seçimlik argümanlar ise \texttt{[]} (köşeli parantez) içine yazılır ve varsayılan ayarları değiştirmek için isteğe bağlı olarak kullanılır.
+
+\textbf{(b)} \texttt{\textbackslash documentclass[a4paper, 12pt]\{report\}} komutunda; 
+Zorunlu argüman: \texttt{\{report\}}, 
+Seçimlik argümanlar: \texttt{[a4paper, 12pt]}.
+
+\textbf{(c)} Taban çizgisinden kaldırılmayan, 5 cm genişliğinde ve 1 mm kalınlığındaki yatay ayraç çizgisi:
+\vspace{2mm}
+\noindent\rule[0pt]{5cm}{1mm}
+\vspace{2mm}
+
+\section*{Alıştırma 3: Kaçış Mekanizması}
+Deneysel modelimizin başarım oranı \%94.5 olup maliyeti 250\$ seviyesindedir. Sunucu üzerinde \#1 numaralı iş parçacığı C\# \& SQL veri tabanıyla haberleşmektedir. Ayrıca fonksiyon parametreleri \{x, y\} kümesinde ve C:\textbackslash Proje dizininde saklanır.
+
+\section*{Alıştırma 4: Belge Sınıfı Seçimi}
+\textbf{(a)} \texttt{report} sınıfında üst hiyerarşi olarak \texttt{\textbackslash chapter} komutu varken, \texttt{article} sınıfında bu komut bulunmaz; en üst hiyerarşi \texttt{\textbackslash section} ile başlar.
+
+\textbf{(b)} Standart belge sınıfı eşleştirmeleri:
+\begin{itemize}
+    \item 4 sayfalık konferans bildirisi veya laboratuvar ödevi: \textbf{\texttt{article}} (Kısa metinler içindir, \texttt{\textbackslash chapter} içermez).
+    \item 70 sayfalık kapsamlı bitirme raporu veya tez: \textbf{\texttt{report}} (Kapsamlıdır, \texttt{\textbackslash chapter} hiyerarşisini destekler).
+    \item 300 sayfalık ders kitabı: \textbf{\texttt{book}} (Çift taraflı baskı varsayılan olarak ayarlıdır).
+\end{itemize}
+
+\textbf{(c)} \texttt{article} sınıfında hazırlanmış bir belgede \texttt{\textbackslash chapter\{Giriş\}} yazılırsa derleyici \texttt{! Undefined control sequence.} hatası verir. Nedeni, bu sınıfın altyapısında \texttt{\textbackslash chapter} komutunun tanımlı olmamasıdır.
+
+\section*{Alıştırma 5: Derleyici Mesajları}
+\textbf{(a)} \texttt{! Undefined control sequence. \textbackslash todaay} \\
+\textbf{Türü:} Error (Hata). \textbf{Kök Neden:} \texttt{\textbackslash today} komutu yanlış yazıldığı için derleyici tarafından tanınmamıştır.
+
+\textbf{(b)} \LaTeX{} \textbf{Warning:} \texttt{Reference 'fig:mimari' on page 2 undefined...} \\
+\textbf{Türü:} Warning (Uyarı). \textbf{Kök Neden:} Atıf yapılan \texttt{fig:mimari} etiketi henüz tanımlanmamıştır veya çapraz referans için ikinci derleme yapılmamıştır.
+
+\textbf{(c)} \texttt{Overfull \textbackslash hbox (34.2pt too wide) in paragraph...} \\
+\textbf{Türü:} Bad Box (Görsel Taşma). \textbf{Kök Neden:} Metin satır sınırlarını sağa doğru aştığı için kozmetik bir taşma uyarısı verilmiştir.
+
+\section*{Alıştırma 6: YZ Destekli Belge Üretimi ve Doğrulama}
+\textbf{(a) İstem (Prompt) Tasarımı:} \\
+"BŞEÜ standartlarına uygun, \texttt{article} sınıfında, \texttt{a4paper} ve \texttt{11pt} ayarlarında, Türkçe dil destekli (\texttt{babel}), kapak bilgileri olan ve giriş bölümü içeren minimal bir \LaTeX\ belgesi kodu üret."
+
+\textbf{(b) Hata Ayıklama Kaydı:} \\
+Üretilen kodda paket çağrılırken \texttt{\textbackslash usepakcage} şeklinde yazım hatası yapılmış ve derleyici tanımsız komut hatası vermiştir. Kod \texttt{\textbackslash usepackage} olarak düzeltilip derlendiğinde çıkış kodu 0 olmuştur.
+
+\textbf{(c) 4 Adımlı Mühendislik Denetim Listesi:}
+\begin{enumerate}
+    \item \textbf{Belge Sınıfı:} Amaca uygun \texttt{article} sınıfı seçilmiştir.
+    \item \textbf{Dil Desteği:} \texttt{babel} ile Türkçe karakterler doğru basılmıştır.
+    \item \textbf{Preamble/Gövde Ayrımı:} Tanımlar ve gövde kısmı nizami şekilde ayrılmıştır.
+    \item \textbf{Özel Karakter Denetimi:} Özel karakterler kaçış kurallarına göre işlenmiştir.
+\end{enumerate}
+
+\end{document}

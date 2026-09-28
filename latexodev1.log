@@ -1,0 +1,173 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.28)  28 SEP 2026 11:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/tunahanaltun/Desktop/bilimsel_arastirma/latexodev1.tex
+(/Users/tunahanaltun/Desktop/bilimsel_arastirma/latexodev1.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/03/08 v26.4 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
+\U@D=\dimen149
+\l@unhyphenated=\language91
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/tr/babel-turkish.tex)
+Package babel Info: Importing font and identification data for turkish
+(babel)             from babel-tr.ini. Reported on input line 4330.
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel-turkish/turkish.ldf
+Language: turkish 2019/07/05 v1.4 Turkish support from the babel system
+Package babel Info: Making : an active character on input line 163.
+Package babel Info: Making ! an active character on input line 164.
+Package babel Info: Making = an active character on input line 194.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+) (./latexodev1.aux
+Package babel Info: 'turkish' activates 'turkish' shorthands.
+(babel)             Reported on input line 7.
+)
+\openout1 = `latexodev1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 16.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 16.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 16.
+
+
+Overfull \hbox (3.66959pt too wide) in paragraph at lines 16--17
+\OT1/cmr/bx/n/10.95 (a) \OT1/cmr/m/n/10.95 Zo-runlu arg^^?uman-lar \OMS/cmtt/m/n/10.95 fg \OT1/cmr/m/n/10.95 (s^^?usl^^?u pa-ran-tez) i^^Xcine yaz^^Pl^^Pr ve ko-mu-tun ^^Xcal^^P^^Xsmas^^P
+ []
+
+
+Overfull \hbox (35.07716pt too wide) in paragraph at lines 18--21
+[]\OT1/cmr/bx/n/10.95 (b) \OMS/cmtt/m/n/10.95 n\OT1/cmtt/m/n/10.95 documentclass[a4paper, 12pt]\OMS/cmtt/m/n/10.95 f\OT1/cmtt/m/n/10.95 report\OMS/cmtt/m/n/10.95 g \OT1/cmr/m/n/10.95 ko-mu-tunda; Zo-runlu arg^^?uman:
+ []
+
+
+Overfull \hbox (18.98909pt too wide) in paragraph at lines 22--26
+[]\OT1/cmr/bx/n/10.95 (c) \OT1/cmr/m/n/10.95 Ta-ban ^^Xcizgisinden kald^^Pr^^Plmayan, 5 cm geni^^Xsli^^Uginde ve 1 mm kal^^Pnl^^P^^Ug^^Pndaki
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 28.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+
+Overfull \hbox (1.89803pt too wide) in paragraph at lines 28--29
+\OT1/cmr/m/n/10.95 berle^^Xsmektedir. Ayr^^Pca fonk-si-yon pa-ra-met-re-leri \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.95 x, y\OMS/cmsy/m/n/10.95 g \OT1/cmr/m/n/10.95 k^^?ume-sinde ve C:\OMS/cmsy/m/n/10.95 n\OT1/cmr/m/n/10.95 Proje
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 35.
+[1
+
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 46.
+
+Overfull \hbox (18.3455pt too wide) in paragraph at lines 46--48
+[]\OT1/cmr/bx/n/10.95 (b) \OT1/cmr/m/n/10.95 L[]T[]X \OT1/cmr/bx/n/10.95 War-ning: \OT1/cmtt/m/n/10.95 Reference 'fig:mimari' on page 2 undefined... 
+ []
+
+
+Overfull \hbox (11.44884pt too wide) in paragraph at lines 46--48
+\OT1/cmr/m/n/10.95 hen^^?uz tan^^Pmlanmam^^P^^Xst^^Pr veya ^^Xcapraz re-fe-rans i^^Xcin ikinci der-leme yap^^Plmam^^P^^Xst^^Pr. 
+ []
+
+
+Overfull \hbox (11.41957pt too wide) in paragraph at lines 52--52
+[]\OT1/cmr/bx/n/14.4 Al^^P^^Xst^^Prma 6: YZ Des-tekli Belge []Ure-timi ve Do^^Ugrulama 
+ []
+
+
+Overfull \hbox (4.20935pt too wide) in paragraph at lines 53--55
+\OT1/cmr/m/n/10.95 lar^^Pnda, T^^?urk^^Xce dil des-tekli (\OT1/cmtt/m/n/10.95 babel\OT1/cmr/m/n/10.95 ), ka-pak bil-gi-leri olan ve giri^^Xs b^^?ol^^?um^^?u i^^Xceren
+ []
+
+
+Overfull \hbox (0.40686pt too wide) in paragraph at lines 56--58
+[]\OT1/cmr/m/n/10.95 Ure-ti-len kodda pa-ket ^^Xca^^Ugr^^Pl^^Prken \OMS/cmsy/m/n/10.95 n\OT1/cmtt/m/n/10.95 usepakcage \OT1/cmr/m/n/10.95 ^^Xseklinde yaz^^Pm ha-tas^^P yap^^Plm^^P^^Xs
+ []
+
+[2] (./latexodev1.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1736 strings out of 467525
+ 31848 string characters out of 5418982
+ 450942 words of memory out of 5000000
+ 30690 multiletter control sequences out of 15000+600000
+ 633094 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,44p,412b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on latexodev1.pdf (2 pages, 125391 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
